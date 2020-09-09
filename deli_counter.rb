@@ -15,7 +15,7 @@ def line(katz_deli)
   end
 end
 
-counter = 0
+$counter = 0
 def take_a_number(katz_deli)
   #counter += 1
   puts counter
