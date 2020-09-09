@@ -17,7 +17,7 @@ end
 
 $counter = 0
 def take_a_number(katz_deli)
-  #counter += 1
+  counter += 1
   puts $counter
   puts "Welcome your numer is #{katz_deli.size} in line."
 end
